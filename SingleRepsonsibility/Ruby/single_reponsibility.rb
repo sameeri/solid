@@ -23,4 +23,9 @@ end
 class Modem
   include ModemCommunication
   include ModemConnection
+
+  ManufacturerName = ""
+  BuildNum = ""
+  Color = ""
+
 end
