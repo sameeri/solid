@@ -1,4 +1,5 @@
-class ModemConnection
+
+module ModemConnection
   def dial number
     #some code that establishes a connection
   end
@@ -8,12 +9,18 @@ class ModemConnection
   end
 end
 
-class ModemCommunication
+module ModemCommunication
   def send datum
     #some code that sends some datum
   end
 
   def receive
-    #some code that receives data
+    #some code that receives datum
   end
+end
+
+
+class Modem
+  include ModemCommunication
+  include ModemConnection
 end
