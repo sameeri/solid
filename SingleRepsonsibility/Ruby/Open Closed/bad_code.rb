@@ -1,26 +1,42 @@
+
+
 class Lion
-  string type
+  def initialize type
+    @species = type
+  end
+
+  def species
+    @species
+  end
 end
 
 class Duck
-  string type
-end
-
-def MakeLionRoar lion
-  #some code to make lion roar
-end
-
-def MakeDuckQuack duck
-  #some code to make duck quack
-end
-
-def MakeAllAnimalsMakeNoise list_of_animals
-  list_of_animals.each do |animal|
-    if (animal.type == "Lion")
-      MakeLionRoar animal
-    elsif (animal.type == "Duck")
-      MakeDuckQuack animal
-    end
+  def initialize type
+    @species = type
   end
 
+  def species
+    @species
+  end
 end
+
+class MainProgram
+  def make_all_animals_make_noise list_of_animals
+    list_of_animals.each do |animal|
+      if animal.species == "Lion"
+        puts "Roar!"
+      elsif animal.species == "Duck"
+        puts "Quack!"
+      end
+    end
+
+  end
+end
+
+lion = Lion.new "Lion"
+duck = Duck.new "Duck"
+list = [lion,duck]
+
+run = MainProgram.new
+
+run.make_all_animals_make_noise list
