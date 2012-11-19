@@ -1,0 +1,101 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="771" fromTop="30" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:Square.cs" caret="105" fromTop="7" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="249" fromTop="11" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="14" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:ShapeDrawer.cs" caret="150" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="21" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="20" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="5" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="20" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="341" fromTop="9" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="341" fromTop="23" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="32" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="377" fromTop="36" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="386" fromTop="13" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="386" fromTop="37" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="384" fromTop="40" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="384" fromTop="18" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="384" fromTop="18" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="386" fromTop="18" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="386" fromTop="16" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="40" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="24" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="20" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="18" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="463" fromTop="12" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="391" fromTop="13" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="210" fromTop="9" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="136" fromTop="6" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:ShapeDrawer.cs" caret="601" fromTop="24" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="116" fromTop="6" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="82" fromTop="7" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="13" fromTop="1" />
+      <File id="905FEBC5-2C68-4E07-9317-011A44FA81BB/f:OcpVoilatingProgram.cs" caret="364" fromTop="13" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="298" fromTop="11" />
+      <File id="0DF563A8-8C90-4C4A-A4B9-8DFB9C752272/f:OcpConformingProgram.cs" caret="350" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="class" priority="2" />
+      <Item value="string" priority="1" />
+      <Item value="Shape`0" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="Console`0" priority="3" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="List" priority="0" />
+      <Item value="Square`0" priority="3" />
+      <Item value="Circle`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="shape" priority="5" />
+      <Item value="interface" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="IShape`0" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="drawThoseShapes" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="_shapes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Simple_OCP_Example.Program+IShape">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Simple_OCP_Example.Program+Square">
+      <Item value="DrawSquare`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Simple_OCP_Example.Program+Circle">
+      <Item value="DrawCircle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Simple_OCP_Example.ShapeDrawer">
+      <Item value="DrawShapes`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

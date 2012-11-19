@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Console\Simple OCP Example\Simple OCP Example\bin\Debug\Simple OCP Example.exe
+C:\Projects\CSharp\Console\Simple OCP Example\Simple OCP Example\bin\Debug\Simple OCP Example.pdb
+C:\Projects\CSharp\Console\Simple OCP Example\Simple OCP Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Console\Simple OCP Example\Simple OCP Example\obj\x86\Debug\Simple OCP Example.exe
+C:\Projects\CSharp\Console\Simple OCP Example\Simple OCP Example\obj\x86\Debug\Simple OCP Example.pdb
