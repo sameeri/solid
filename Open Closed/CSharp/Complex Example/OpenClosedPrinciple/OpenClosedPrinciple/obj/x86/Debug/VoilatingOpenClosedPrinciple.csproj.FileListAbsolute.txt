@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\VoilatingOpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\VoilatingOpenClosedPrinciple.pdb
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\VoilatingOpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\VoilatingOpenClosedPrinciple.pdb

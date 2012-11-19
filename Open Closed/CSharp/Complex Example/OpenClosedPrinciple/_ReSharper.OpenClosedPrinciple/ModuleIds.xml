@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="FE1E0696-F7CB-403D-A06B-4612B19085F4" ModuleId="OpenClosedPrinciple" />
+  <Module PersistentId="8221918B-1439-46ED-97F7-AA7184FE24E9" ModuleId="ConformingToOpenClosedPrinciple" />
+</Modules>

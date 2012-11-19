@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\OpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\OpenClosedPrinciple\obj\x86\Debug\OpenClosedPrinciple.pdb

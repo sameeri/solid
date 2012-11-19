@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Console\OpenClosedPrinciple\ConformingToOpenClosedPrinciple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Console\OpenClosedPrinciple\ConformingToOpenClosedPrinciple\bin\Debug\ConformingToOpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\ConformingToOpenClosedPrinciple\bin\Debug\ConformingToOpenClosedPrinciple.pdb
+C:\Projects\CSharp\Console\OpenClosedPrinciple\ConformingToOpenClosedPrinciple\obj\x86\Debug\ConformingToOpenClosedPrinciple.exe
+C:\Projects\CSharp\Console\OpenClosedPrinciple\ConformingToOpenClosedPrinciple\obj\x86\Debug\ConformingToOpenClosedPrinciple.pdb

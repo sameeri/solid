@@ -1,0 +1,189 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:SimulateAShoppingCart.cs" caret="210" fromTop="8" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:VolumeDiscountStrategyOld.cs" caret="1019" fromTop="37" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:ShoppingCart.cs" caret="1315" fromTop="19" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ReadMe.txt" caret="788" fromTop="36" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:MoreThanFiveteenDiscountRule.cs" caret="0" fromTop="0" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenTenAndFiveteenDiscountRule.cs" caret="0" fromTop="0" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:IDiscountRule.cs" caret="0" fromTop="0" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:IDiscountStrategy.cs" caret="0" fromTop="0" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:SimulateAShoppingCart.cs" caret="1438" fromTop="38" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2128" fromTop="25" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="943" fromTop="31" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:DiscountStrategyBasedOnVolume.cs" caret="572" fromTop="17" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:Product.cs" caret="170" fromTop="6" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenFiveAndTenDiscountRule.cs" caret="112" fromTop="2" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:OcpVoilatingProgram.cs" caret="246" fromTop="8" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="762" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:MoreThanFiveteenDiscountRule.cs" caret="333" fromTop="14" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenFiveAndTenDiscountRule.cs" caret="240" fromTop="6" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2296" fromTop="24" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2296" fromTop="30" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ReadMe.txt" caret="788" fromTop="36" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:IDiscountStrategy.cs" caret="0" fromTop="0" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:OcpVoilatingProgram.cs" caret="958" fromTop="20" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2275" fromTop="33" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2164" fromTop="31" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="1033" fromTop="21" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:ShoppingCart.cs" caret="2099" fromTop="24" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:OcpVoilatingProgram.cs" caret="897" fromTop="17" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:OcpVoilatingProgram.cs" caret="591" fromTop="14" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="2827" fromTop="24" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="2770" fromTop="33" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="788" fromTop="21" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="493" fromTop="17" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="1211" fromTop="37" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="573" fromTop="18" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="1068" fromTop="27" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="1066" fromTop="29" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="877" fromTop="27" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="2723" fromTop="21" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:PricingCalculator.cs" caret="943" fromTop="31" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenFiveAndTenDiscountRule.cs" caret="353" fromTop="15" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenFiveAndTenDiscountRule.cs" caret="353" fromTop="26" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/d:DiscountRulesBasedOnVolume/f:BetweenFiveAndTenDiscountRule.cs" caret="353" fromTop="14" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="2192" fromTop="20" />
+      <File id="FE1E0696-F7CB-403D-A06B-4612B19085F4/f:OcpVoilatingProgram.cs" caret="246" fromTop="8" />
+      <File id="8221918B-1439-46ED-97F7-AA7184FE24E9/f:OcpConformingProgram.cs" caret="431" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="class" priority="0" />
+      <Item value="var" priority="23" />
+      <Item value="new" priority="18" />
+      <Item value="ShoppingCart`0" priority="3" />
+      <Item value="product" priority="0" />
+      <Item value="CartItem`0" priority="2" />
+      <Item value="CartItem" priority="1" />
+      <Item value="List&lt;CartItem&gt;" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="void" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="_items" priority="5" />
+      <Item value="item" priority="4" />
+      <Item value="cart" priority="10" />
+      <Item value="double" priority="3" />
+      <Item value="foreach" priority="3" />
+      <Item value="GetTotalAmount`0" priority="4" />
+      <Item value="cartItem" priority="0" />
+      <Item value="Console`0" priority="9" />
+      <Item value="List" priority="1" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="products" priority="1" />
+      <Item value="ICartItem`0" priority="1" />
+      <Item value="Random`0" priority="2" />
+      <Item value="random" priority="1" />
+      <Item value="randomizer" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="itemrandomizer" priority="0" />
+      <Item value="LocalDataStoreSlot`0" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="return" priority="10" />
+      <Item value="override" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Manufacturer" priority="0" />
+      <Item value="CannotUnloadAppDomainException`0" priority="0" />
+      <Item value="_cart" priority="6" />
+      <Item value="pricingCalculator" priority="2" />
+      <Item value="items" priority="0" />
+      <Item value="amount" priority="1" />
+      <Item value="_discountStrategy" priority="1" />
+      <Item value="discount" priority="1" />
+      <Item value="GetDiscountPercentage`0" priority="2" />
+      <Item value="itemCount" priority="1" />
+      <Item value="Product`0" priority="0" />
+      <Item value="IDiscountStrategy`0" priority="0" />
+      <Item value="discountRules" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="_discountRules" priority="0" />
+      <Item value="rule" priority="0" />
+      <Item value="matchedRule" priority="0" />
+      <Item value="GetTotalAmountIteration2`0" priority="0" />
+      <Item value="GetPriceAfterDiscount`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="total" priority="1" />
+      <Item value="PricingCalculator`0" priority="0" />
+      <Item value="PricingCalculator" priority="0" />
+      <Item value="discountStrategy" priority="0" />
+      <Item value="DiscountStrategyBasedOnVolume`0" priority="0" />
+      <Item value="List&lt;IDiscountRule&gt;" priority="0" />
+      <Item value="LessThanFiveDiscountRule`0" priority="0" />
+      <Item value="BetweenTenAndFiveteenDiscountRule`0" priority="0" />
+      <Item value="MoreThanFiveteenDiscountRule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Remove`0" priority="1" />
+      <Item value="FirstOrDefault`1" priority="1" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenClosedPrinciple.CartItem">
+      <Item value="Id" priority="0" />
+      <Item value="Price" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="9" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenClosedPrinciple.ShoppingCart">
+      <Item value="Add`0" priority="2" />
+      <Item value="GetItemCount`0" priority="1" />
+      <Item value="GetDiscountPercentage`0" priority="0" />
+      <Item value="GetItems`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OpenClosedPrinciple.Product">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConformingToOpenClosedPrinciple.Product">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Price" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConformingToOpenClosedPrinciple.IDiscountStrategy">
+      <Item value="Calculate`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConformingToOpenClosedPrinciple.ShoppingCart">
+      <Item value="GetItems`0" priority="2" />
+      <Item value="GetItemCount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConformingToOpenClosedPrinciple.IDiscountRule">
+      <Item value="Match`0" priority="0" />
+      <Item value="Discount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConformingToOpenClosedPrinciple.PricingCalculator">
+      <Item value="GetTotalAmount`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
