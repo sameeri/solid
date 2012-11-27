@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Projects\CSharp\Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Projects\CSharp\Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\x86\Debug\LiskovSubstitutionPrinciple.exe
+C:\Projects\CSharp\Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\x86\Debug\LiskovSubstitutionPrinciple.pdb

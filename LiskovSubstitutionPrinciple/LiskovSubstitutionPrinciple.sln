@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple-NonConforming", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple-NonConforming.csproj", "{2DBDBF3D-BCE4-450C-B26A-A75DDADB9421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple-Conforming", "LiskovSubstitutionPrinciple-Conforming\LiskovSubstitutionPrinciple-Conforming.csproj", "{857939B2-C4D5-43D6-8357-5921DDE6D8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBDBF3D-BCE4-450C-B26A-A75DDADB9421}.Debug|x86.ActiveCfg = Debug|x86
+		{2DBDBF3D-BCE4-450C-B26A-A75DDADB9421}.Debug|x86.Build.0 = Debug|x86
+		{2DBDBF3D-BCE4-450C-B26A-A75DDADB9421}.Release|x86.ActiveCfg = Release|x86
+		{2DBDBF3D-BCE4-450C-B26A-A75DDADB9421}.Release|x86.Build.0 = Release|x86
+		{857939B2-C4D5-43D6-8357-5921DDE6D8DB}.Debug|x86.ActiveCfg = Debug|x86
+		{857939B2-C4D5-43D6-8357-5921DDE6D8DB}.Debug|x86.Build.0 = Debug|x86
+		{857939B2-C4D5-43D6-8357-5921DDE6D8DB}.Release|x86.ActiveCfg = Release|x86
+		{857939B2-C4D5-43D6-8357-5921DDE6D8DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
