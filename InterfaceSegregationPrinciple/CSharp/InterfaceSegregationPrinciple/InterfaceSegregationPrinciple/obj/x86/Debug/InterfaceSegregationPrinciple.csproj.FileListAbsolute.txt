@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\x86\Debug\InterfaceSegregationPrinciple.exe
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\x86\Debug\InterfaceSegregationPrinciple.pdb

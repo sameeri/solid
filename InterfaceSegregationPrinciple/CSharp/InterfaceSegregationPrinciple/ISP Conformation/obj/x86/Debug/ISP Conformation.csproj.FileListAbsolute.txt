@@ -1,0 +1,5 @@
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\ISP Conformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\ISP Conformation\bin\Debug\ISP Conformation.exe
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\ISP Conformation\bin\Debug\ISP Conformation.pdb
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\ISP Conformation\obj\x86\Debug\ISP Conformation.exe
+C:\Projects\CSharp\Principles\InterfaceSegregationPrinciple\ISP Conformation\obj\x86\Debug\ISP Conformation.pdb
