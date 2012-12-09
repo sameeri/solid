@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="911561BE-216E-479F-A21C-C169A87F98B2" ModuleId="DependecyInversionPrinciple" />
+  <Module PersistentId="43728EA0-4474-4651-9005-D51681A99121" ModuleId="DependencyInversionPrinciple Conformation" />
+  <Module PersistentId="DAEB4A81-5B50-4AEB-957F-030A587255A8" ModuleId="DependencyInversionPrinciple WithAnIocContainer" />
+</Modules>

@@ -1,0 +1,72 @@
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\DependencyInversionPrinciple Conformation.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\DependencyInversionPrinciple Conformation.pdb
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Antlr3.Runtime.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\EntityFramework.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Newtonsoft.Json.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.Formatting.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.WebRequest.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Helpers.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.WebHost.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Mvc.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Optimization.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Providers.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Razor.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Razor.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\WebGrease.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\EntityFramework.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Newtonsoft.Json.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.Formatting.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.WebRequest.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Helpers.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.WebHost.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Mvc.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Razor.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Razor.xml
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\DependencyInversionPrinciple Conformation.dll
+C:\Projects\CSharp\Principles\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\DependencyInversionPrinciple Conformation.pdb
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\DependencyInversionPrinciple Conformation.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\DependencyInversionPrinciple Conformation.pdb
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Antlr3.Runtime.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\EntityFramework.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Newtonsoft.Json.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.Formatting.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.WebRequest.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Helpers.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.WebHost.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Mvc.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Optimization.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Providers.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Razor.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Razor.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\WebGrease.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\EntityFramework.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\Newtonsoft.Json.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.Formatting.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Net.Http.WebRequest.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Helpers.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Http.WebHost.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Mvc.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.Razor.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\bin\System.Web.WebPages.Razor.xml
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\DependencyInversionPrinciple Conformation.dll
+C:\Users\smarryboyina\Desktop\DependecyInversionPrinciple\DependencyInversionPrinciple Conformation\obj\Debug\DependencyInversionPrinciple Conformation.pdb
